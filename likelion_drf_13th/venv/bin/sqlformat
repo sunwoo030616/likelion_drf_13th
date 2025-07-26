@@ -1,4 +1,4 @@
-#!/Users/sunwoo030616/Desktop/Workspace/likelion_drf_13th/venv/bin/python3
+#!/Users/sunwoo030616/Desktop/Workspace/likelion_drf_13th/likelion_drf_13th/venv/bin/python3.13
 # -*- coding: utf-8 -*-
 import re
 import sys
